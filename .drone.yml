@@ -9,4 +9,4 @@ platform:
 steps:
 - name: greeting
   commands:
-  - gradle build -x test
+  - gradle build
